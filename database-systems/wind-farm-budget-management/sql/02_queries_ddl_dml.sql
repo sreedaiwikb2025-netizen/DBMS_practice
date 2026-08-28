@@ -1,7 +1,6 @@
 -- ============================================================
 -- WIND FARM DEVELOPMENT BUDGET MANAGEMENT SYSTEM
--- Queries, DDL and DML
--- Source: DBMS Assessment 2
+-- DDL and DML Queries
 -- ============================================================
 
 USE WindFarmDevelopmentBudgetMS;
