@@ -1,7 +1,6 @@
 -- ============================================================
--- RETAIL STORE INVENTORY AND SALES
+-- RETAIL STORE INVENTORY AND SALES DB
 -- Setup, table creation and dataset import
--- Source: DBMS Assessment 5
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS retail_assessment_06;
