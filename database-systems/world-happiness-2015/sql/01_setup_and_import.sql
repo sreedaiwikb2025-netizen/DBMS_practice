@@ -1,7 +1,6 @@
 -- ============================================================
--- WORLD HAPPINESS REPORT 2015
--- Setup, table creation and dataset import
--- Source: DBMS Assessment 4
+-- WORLD HAPPINESS REPORT DB
+-- Regular Queries
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS happiness_db;
