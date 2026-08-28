@@ -1,7 +1,6 @@
 -- ============================================================
 -- WIND FARM DEVELOPMENT BUDGET MANAGEMENT SYSTEM
--- Schema and sample data
--- Source: DBMS Assessment 2
+-- Regular Queries
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS WindFarmDevelopmentBudgetMS;
