@@ -1,7 +1,6 @@
 -- ============================================================
 -- RETAIL STORE INVENTORY AND SALES
--- Transaction Control Language (TCL)
--- Source: DBMS Assessment 5
+-- Transaction Control Language (TCL) Queries
 -- ============================================================
 
 USE retail_assessment_06;
