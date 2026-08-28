@@ -22,3 +22,6 @@ A collection of SQL work from the DBMS work included in this chat.
 - COMMIT, ROLLBACK, SAVEPOINT and transaction isolation
 
 Only SQL projects supported by the material supplied in this chat are included.
+
+## Contact
+Project maintained by: Sree Daiwik B
