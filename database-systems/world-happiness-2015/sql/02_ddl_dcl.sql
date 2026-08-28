@@ -1,7 +1,6 @@
 -- ============================================================
--- WORLD HAPPINESS REPORT 2015
--- DDL and DCL
--- Source: DBMS Assessment 4
+-- WORLD HAPPINESS REPORT DB
+-- DDL and DCL Queries
 -- ============================================================
 
 USE happiness_db;
