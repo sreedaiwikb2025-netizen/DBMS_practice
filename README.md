@@ -1,6 +1,6 @@
 # DBMS SQL Projects
 
-A collection of SQL work from the DBMS work included in this chat.
+A collection of SQL work from my Database Systems project is included here. Practical sql files are attached with the same.
 
 ## Database Systems
 
@@ -21,7 +21,7 @@ A collection of SQL work from the DBMS work included in this chat.
 - TCL transactions
 - COMMIT, ROLLBACK, SAVEPOINT and transaction isolation
 
-Only SQL projects supported by the material supplied in this chat are included.
+Datasets are not attached when not required, view Kaggle for complete version.
 
 ## Contact
 Project maintained by: Sree Daiwik B
