@@ -1,7 +1,7 @@
 -- ============================================================
 -- WIND FARM DEVELOPMENT BUDGET MANAGEMENT SYSTEM
 -- Normalization: 1NF, 2NF and 3NF
--- Source: DBMS Assessment 3
+-- (Not for implementation, theoretical Codes)
 -- ============================================================
 
 USE WindFarmDevelopmentBudgetMS;
