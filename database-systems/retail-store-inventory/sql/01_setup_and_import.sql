@@ -2,10 +2,8 @@
 -- RETAIL STORE INVENTORY AND SALES DB
 -- Setup, table creation and dataset import
 -- ============================================================
-
 CREATE DATABASE IF NOT EXISTS retail_assessment_06;
 USE retail_assessment_06;
-
 CREATE TABLE IF NOT EXISTS retail_data (
     Date DATE,
     Store_ID INT,
@@ -23,10 +21,8 @@ CREATE TABLE IF NOT EXISTS retail_data (
     Competitor_Pricing DECIMAL(10,2),
     Seasonality VARCHAR(50)
 );
-
 SHOW VARIABLES LIKE 'local_infile';
 SET GLOBAL local_infile = 1;
-
 -- Change the path to the location of your local CSV file.
 LOAD DATA LOCAL INFILE 'data/retail_store_inventory_data.csv'
 INTO TABLE retail_data
@@ -34,6 +30,5 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
-
 SELECT COUNT(*) FROM retail_data;
 SELECT * FROM retail_data LIMIT 5;
